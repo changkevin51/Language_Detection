@@ -6,7 +6,7 @@ A streamlit application that detects the language of the entered text and tells 
 
 ## Description
 
-This app uses lingua to detect language and Pyjokes to make jokes. The top 4 language predictions can be displayed with their confidence scores. 
+This app uses lingua to detect language and Pyjokes to make jokes in that language. The top 4 language predictions can be displayed with their confidence scores. 
 
 Web Interface built with [Streamlit](https://streamlit.io/).
 
